@@ -1,20 +1,16 @@
 
-<img src="NIEM-NO-Logo-v5.png" width="200">
+# NIEMOpen GitHub Repos
 
-# NIEMOpen Project Repos
+A directory for the NIEMOpen GitHub repositories is provided below, with descriptions available as tooltips on the links.
 
-NIEMOpen is an [OASIS Open Project](https://oasis-open-projects.org/) comprising a community-driven, standards-based approach to exchanging information. See more information about the project at [niemopen.org](https://niemopen.org).
-
-Repository descriptions are provided as tooltips on the links.
-
-*Note: The transition of repositories from the [NIEM GitHub account](https://github.com/NIEM) to the new [niemopen GitHub account](https://github.com/niemopen) is in progress.  Links to the original NIEM repos have been temporarily provided while content, open issues, and wiki pages are still being contributed.*
+The transition of repositories from the [NIEM GitHub account](https://github.com/NIEM) to the new [niemopen GitHub account](https://github.com/niemopen) is in progress.  Links to the original NIEM repos have been temporarily provided while content, open issues, and wiki pages are still being contributed.
 
 - **[NIEMOpen OASIS Open Project](https://github.com/niemopen/oasis-open-project "Includes NIEMOpen charter and other governance documents, mailing lists for the project and Technical Steering Committees (TSCs), Project Governance Board (PGB) meeting minutes, and sponsorship information.")**
 
 ## Technical Steering Committees
 
-- **[NIEM Business Architecture Committee (NBAC)](https://github.com/niemopen/nbac-admin "Sets the business architecture and requirements of NIEM, manages NIEM Core, and supports NIEM domains.")**
-- **[NIEM Technical Architecture Committee (NTAC)](https://github.com/niemopen/ntac-admin "Defines and supports the technical architecture of NIEM.")**
+- **[NIEM Business Architecture Committee (NBAC)](https://github.com/niemopen/nbac-admin "Sets the business architecture and requirements of NIEM, manages NIEM Core, and supports NIEM domains.")** - [NBAC issue tracker](https://github.com/orgs/niemopen/projects/3 "Tracks model and other NBAC issues")
+- **[NIEM Technical Architecture Committee (NTAC)](https://github.com/niemopen/ntac-admin "Defines and supports the technical architecture of NIEM.")** - [NTAC issue tracker](https://github.com/orgs/niemopen/projects/2 "Tracks technical specification and general NTAC issues")
 - **[NIEM Management Office (NMO)](https://github.com/niemopen/nmo-admin)**
 
 ## Specifications
