@@ -9,9 +9,12 @@ The transition of repositories from the [NIEM GitHub account](https://github.com
 
 ## Technical Steering Committees
 
-- **[NIEM Business Architecture Committee (NBAC)](https://github.com/niemopen/nbac-admin "Sets the business architecture and requirements of NIEM, manages NIEM Core, and supports NIEM domains.")** - [NIEM 6.0 version tracker](https://github.com/orgs/niemopen/projects/3 "Tracks NIEMOpen model for future development")
-    - [NBAC Task Tracker](https://oasis-open.atlassian.net/jira/core/projects/NBAC/board "Track NBAC tasks/activities")
-- **[NIEM Technical Architecture Committee (NTAC)](https://github.com/niemopen/ntac-admin "Defines and supports the technical architecture of NIEM.")** - [NTAC issue tracker](https://github.com/orgs/niemopen/projects/2 "Tracks technical specification and general NTAC issues")
+- **[NIEM Business Architecture Committee (NBAC)](https://github.com/niemopen/nbac-admin "Sets the business architecture and requirements of NIEM, manages NIEM Core, and supports NIEM domains.")**
+  - [NIEM data model issue tracker (GitHub)](https://github.com/orgs/niemopen/projects/3 "Tracks NIEMOpen model for future development")
+  - [NBAC Task Tracker (Jira)](https://oasis-open.atlassian.net/jira/core/projects/NBAC/board "Track NBAC tasks/activities")
+- **[NIEM Technical Architecture Committee (NTAC)](https://github.com/niemopen/ntac-admin "Defines and supports the technical architecture of NIEM.")**
+  - [NTAC issue tracker (GitHub)](https://github.com/orgs/niemopen/projects/2 "Tracks technical specification and general NTAC issues")
+  - [NTAC Discussion Board (GitHub)](https://github.com/niemopen/ntac-admin/discussions "Communication forum for the NTAC")
 - **[NIEM Management Office (NMO)](https://github.com/niemopen/nmo-admin)**
 
 ## Specifications
@@ -19,7 +22,7 @@ The transition of repositories from the [NIEM GitHub account](https://github.com
 - **[NIEM model](https://github.com/niemopen/niem-model "The NIEM reference data model, providing reusable components to use in NIEM message specifications.")**
 - **[Naming and Design Rules (NDR)](https://github.com/niemopen/niem-naming-design-rules "Specifies rules and the architecture for the NIEM data model and NIEM XML schemas.")** | [original repo](https://github.com/NIEM/NIEM-NDR)
 - **Message Specifications** | [original MPD-Spec repo](https://github.com/NIEM/MPD-Spec "A guide to constructing NIEM message specifications, formerly called IEPDs.")
-- **Code Lists** | [original repo](https://github.com/NIEM/NIEM-Code-Lists-Spec "Schema alternatives (Genericode, CSVs) for defining and using code lists with NIEM message specifications. Supports fixed or dynamic (run-time) code lists.  Also supports multi-column code lists.")
+- **[Code Lists](https://github.com/niemopen/code-lists-specification)** | [original repo](https://github.com/NIEM/NIEM-Code-Lists-Spec "Schema alternatives (Genericode, CSVs) for defining and using code lists with NIEM message specifications. Supports fixed or dynamic (run-time) code lists.  Also supports multi-column code lists.")
 - **[Common Model Format (CMF)](https://github.com/niemopen/common-model-format "A data model for NIEM that can be expressed as XML, JSON, or any other serialization that NIEM supports.")**
 - **Conformance** | [original repo](https://github.com/NIEM/NIEM-Conformance-Spec "General conformance guidance, principles, and rules for usage of NIEM.")
 - **[Conformance Targets Attribute Specification (CTAS)](https://github.com/niemopen/niem-conformance-targets "Defines an XML attribute to use within NIEM XML documents, allowing these documents to specify which kind of NIEM artifact they are.")**
@@ -32,6 +35,6 @@ The transition of repositories from the [NIEM GitHub account](https://github.com
 
 ## Tools
 
-- **CMF Tool**
+- **[CMF Tool](https://github.com/niemopen/cmftool "A command-line tool for the developers of NIEM-conforming data exchange specifications using the NIEM Common Model Format (CMF).")**
 - **IEPD Java Bindings** | [original repo](https://github.com/NIEM/IEPD-Java-Bindings "A Java project that generates a jar of java class files based on an IEPD that can be used to read and generate message instances.")
 - **NIEM API** | [original repo](https://github.com/NIEM/NIEM-API "[Coming soon] API and backend for supported NIEM tool functionality, including model management, search, subset development, migration mapping, conformance, and model transforms.")
