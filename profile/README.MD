@@ -24,7 +24,7 @@ The transition of repositories from the [NIEM GitHub account](https://github.com
 - **Message Specifications** | [original MPD-Spec repo](https://github.com/NIEM/MPD-Spec "A guide to constructing NIEM message specifications, formerly called IEPDs.")
 - **[Code Lists](https://github.com/niemopen/code-lists-specification)** | [original repo](https://github.com/NIEM/NIEM-Code-Lists-Spec "Schema alternatives (Genericode, CSVs) for defining and using code lists with NIEM message specifications. Supports fixed or dynamic (run-time) code lists.  Also supports multi-column code lists.")
 - **[Common Model Format (CMF)](https://github.com/niemopen/common-model-format "A data model for NIEM that can be expressed as XML, JSON, or any other serialization that NIEM supports.")**
-- **Conformance** | [original repo](https://github.com/NIEM/NIEM-Conformance-Spec "General conformance guidance, principles, and rules for usage of NIEM.")
+- **[Conformance](https://github.com/niemopen/conformance-specification "Conformance guidelines, principles, and rules for NIEM")** | [original repo](https://github.com/NIEM/NIEM-Conformance-Spec "General conformance guidance, principles, and rules for usage of NIEM.")
 - **[Conformance Targets Attribute Specification (CTAS)](https://github.com/niemopen/niem-conformance-targets "Defines an XML attribute to use within NIEM XML documents, allowing these documents to specify which kind of NIEM artifact they are.")**
 
 ## Resources
