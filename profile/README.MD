@@ -11,10 +11,11 @@ The transition of repositories from the [NIEM GitHub account](https://github.com
 
 - **[NIEM Business Architecture Committee (NBAC)](https://github.com/niemopen/nbac-admin "Sets the business architecture and requirements of NIEM, manages NIEM Core, and supports NIEM domains.")**
   - [NIEM data model issue tracker (GitHub)](https://github.com/orgs/niemopen/projects/3 "Tracks NIEMOpen model for future development")
-  - [NBAC Task Tracker (Jira)](https://oasis-open.atlassian.net/jira/core/projects/NBAC/board "Track NBAC tasks/activities")
+  - [NBAC task tracker (Jira)](https://oasis-open.atlassian.net/jira/core/projects/NBAC/board "Track NBAC tasks/activities")
 - **[NIEM Technical Architecture Committee (NTAC)](https://github.com/niemopen/ntac-admin "Defines and supports the technical architecture of NIEM.")**
+  - [NTAC meeting agendas and minutes](https://github.com/niemopen/ntac-admin/tree/main/meetings)
   - [NTAC issue tracker (GitHub)](https://github.com/orgs/niemopen/projects/2 "Tracks technical specification and general NTAC issues")
-  - [NTAC Discussion Board (GitHub)](https://github.com/niemopen/ntac-admin/discussions "Communication forum for the NTAC")
+  - [NTAC discussion board (GitHub)](https://github.com/niemopen/ntac-admin/discussions "Communication forum for the NTAC")
 - **[NIEM Management Office (NMO)](https://github.com/niemopen/nmo-admin)**
 
 ## Specifications
