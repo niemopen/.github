@@ -21,8 +21,8 @@ The transition of repositories from the [NIEM GitHub account](https://github.com
 ## Specifications
 
 - **[NIEM model](https://github.com/niemopen/niem-model "The NIEM reference data model, providing reusable components to use in NIEM message specifications.")**
-- **[Naming and Design Rules (NDR)](https://github.com/niemopen/niem-naming-design-rules "Specifies rules and the architecture for the NIEM data model and NIEM XML schemas.")** | [original repo](https://github.com/NIEM/NIEM-NDR)
-- **Message Specifications** | [original MPD-Spec repo](https://github.com/NIEM/MPD-Spec "A guide to constructing NIEM message specifications, formerly called IEPDs.")
+- **[Naming and Design Rules (NDR)](https://github.com/niemopen/niem-naming-design-rules "Specifies rules and the architecture for the NIEM data model and NIEM XML schemas.")** | [original repo](https://github.com/NIEM/NIEM-NDR) | [JSON Spec 5.0 markdown](https://github.com/niemopen/ntac-admin/blob/main/documents/docs/json-specification.md)
+- **Message Specifications** | [original MPD-Spec repo](https://github.com/NIEM/MPD-Spec "A guide to constructing NIEM message specifications, formerly called IEPDs.") | [IEPD Spec 5.0 markdown](https://github.com/niemopen/ntac-admin/blob/main/project-notes/docs/message-specifications-v1.0-pn01/message-specifications-v1.0-pn01.md)
 - **[Code Lists](https://github.com/niemopen/code-lists-specification)** | [original repo](https://github.com/NIEM/NIEM-Code-Lists-Spec "Schema alternatives (Genericode, CSVs) for defining and using code lists with NIEM message specifications. Supports fixed or dynamic (run-time) code lists.  Also supports multi-column code lists.")
 - **[Common Model Format (CMF)](https://github.com/niemopen/common-model-format "A data model for NIEM that can be expressed as XML, JSON, or any other serialization that NIEM supports.")**
 - **[Conformance](https://github.com/niemopen/conformance-specification "Conformance guidelines, principles, and rules for NIEM")** | [original repo](https://github.com/NIEM/NIEM-Conformance-Spec "General conformance guidance, principles, and rules for usage of NIEM.")
