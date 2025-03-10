@@ -38,4 +38,4 @@ The transition of repositories from the [NIEM GitHub account](https://github.com
 
 - **[CMF Tool](https://github.com/niemopen/cmftool "A command-line tool for the developers of NIEM-conforming data exchange specifications using the NIEM Common Model Format (CMF).")**
 - **IEPD Java Bindings** | [original repo](https://github.com/NIEM/IEPD-Java-Bindings "A Java project that generates a jar of java class files based on an IEPD that can be used to read and generate message instances.")
-- **NIEM API** | [original repo](https://github.com/NIEM/NIEM-API "[Coming soon] API and backend for supported NIEM tool functionality, including model management, search, subset development, migration mapping, conformance, and model transforms.")
+- **[NIEM API](https://github.com/niemopen/niem-api/tree/dev)**
