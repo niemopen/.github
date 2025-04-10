@@ -32,7 +32,7 @@ The transition of repositories from the [NIEM GitHub account](https://github.com
 
 - **niem.github.io** | [original repo](https://github.com/NIEM/NIEM.github.io "Source files for NIEM's technical website at niem.github.io.")
 - **Template IEPD** | [original repo](https://github.com/NIEM/Template-IEPD "A template that can be used as a starting point for a new NIEM IEPD.")
-- **Training** | [original repo](https://github.com/NIEM/NIEM-Training "NIEM and IEPD resources used in the NIEM technical training videos on YouTube.")
+- **[Training](https://github.com/niemopen/niem-open-training)** | [original repo](https://github.com/NIEM/NIEM-Training "NIEM and IEPD resources used in the NIEM technical training videos on YouTube.")
 
 ## Tools
 
